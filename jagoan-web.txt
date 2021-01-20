@@ -1,4 +1,4 @@
 JAGOAN WEB
 - Konsisten untuk membuat platform
-- Membuat forum diskusi
 - Membuat repository
+- Ngoding Git Bash
